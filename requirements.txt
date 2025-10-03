@@ -1,4 +1,5 @@
-numpy==1.26.4
-websocket-client==1.7.0
-flask==3.0.0
-gunicorn==21.2.0
+# requirements.txt
+Flask
+requests
+websocket-client
+numpy
